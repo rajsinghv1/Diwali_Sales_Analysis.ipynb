@@ -1,1 +1,3 @@
-Data Analysing Using Python _Project
+Diwali_Sales_Analysis.ipynb
+
+Python project for beginners- Analyze Diwali sales data to improve customer experience and sales
