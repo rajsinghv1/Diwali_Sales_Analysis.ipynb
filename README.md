@@ -16,6 +16,8 @@ Future Enhancements
 Further analysis on other demographics o
 
 Key Points
+
+
 The project analyzes Diwali sale data to understand customer purchasing behaviors.
 It specifically targets married women aged 26-35 as a significant customer segment.
 The primary regions of interest are Uttar Pradesh, Maharashtra, and Karnataka.
