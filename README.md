@@ -16,17 +16,17 @@ This project delves into Diwali sale data to uncover customer purchasing pattern
 
 These insights can guide customer targeting, promotional planning, and product stocking during festive sales.
 
-🧰 Technologies Used
+
+🛠️ Tools & Technologies
 ---
-.Python 🐍
+. Python
 
- . Pandas
+   . pandas, numpy – Data manipulation
 
- . Matplotlib
+   . matplotlib, seaborn – Data visualization
 
- . Seaborn
 
-.Jupyter Notebook
+. Jupyter Notebook – Interactive analysis
 
 🚀 Future Enhancements
 ---
