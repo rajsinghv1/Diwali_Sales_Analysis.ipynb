@@ -1,6 +1,7 @@
 🪔 Diwali Sale Analysis
 ---
 📊 Project Overview
+---
 This project delves into Diwali sale data to uncover customer purchasing patterns. The main objective is to identify key customer segments and popular product categories to help businesses tailor their marketing and sales strategies more effectively.
 ✅ Key Findings
 ---
@@ -47,6 +48,7 @@ Used visualizations to uncover trends and correlations
 📂 Repository Contents
 ---
 📁 Diwali-Sale-Analysis/
+---
 ├── 📊 Diwali_Sale_Analysis.ipynb
 ├── 📄 README.md
 ├── 📁 dataset/
