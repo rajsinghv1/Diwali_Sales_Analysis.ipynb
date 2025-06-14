@@ -52,10 +52,10 @@ These insights can guide customer targeting, promotional planning, and product s
 ---
 
 📁 Diwali-Sale-Analysis/
--├── 📊 Diwali_Sale_Analysis.ipynb
--├── 📄 README.md
--├── 📁 dataset/
+├── 📊 Diwali_Sale_Analysis.ipynb
+├── 📄 README.md
+├── 📁 dataset/
 │   └── Diwali_Sales_Data.csv
--└── 📈 output/
+└── 📈 output/
     └── visualizations and plots
 
